@@ -68,7 +68,7 @@ This project is open-source and available under the MIT License.
 Contact
 For feedback, inquiries, or collaborations:
 
-Email: your-email@example.com
+Email: parthrana12489@gmail.com
 Instagram- pa._rthf
 
 
