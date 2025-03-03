@@ -35,15 +35,10 @@ Run with Live Server (Optional)
 For a better development experience, launch with Live Server in VS Code.
 
 Folder Structure
-plaintext
-Copy
-Edit
-/The-Bulletin  
- ├── /assets          # Images and media files  
- ├── index.html       # Main HTML structure  
- ├── styles.css       # CSS file for design and layout  
- ├── script.js        # JavaScript (if needed)  
- ├── README.md        # Documentation  
+ ├── fnews main banner.PNG          # Images and media file  
+ ├── fnews.html                     # Main HTML structure  
+ ├── fnews.css                      # CSS file for design and layout  
+ ├── README.md                      # Documentation  
 SEO & Performance Optimisation
 Meta Tags – Ensures search engines rank the platform effectively.
 Open Graph Support – Enables rich previews when shared on social media.
