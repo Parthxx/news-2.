@@ -43,11 +43,6 @@ Folder Structure
 ├── fnews.css # CSS file for design and layout
 ├── README.md # Documentation
 
-SEO & Performance Optimisation
-Meta Tags – Ensures search engines rank the platform effectively.
-Open Graph Support – Enables rich previews when shared on social media.
-Lazy Loading – Optimises image and content rendering.
-Lightweight Code – Reduces unnecessary bloat for faster page load times.
 
 Contribution Guidelines
 Fork the Repository
@@ -72,5 +67,7 @@ Contact
 For feedback, inquiries, or collaborations:
 
 Email: parthrana12489@gmail.com
+
 Instagram: pa._rthf
+
 LinkdIN: www.linkedin.com/in/parth7800
